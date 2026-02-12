@@ -22,4 +22,4 @@ Students can use this repository to prepare for their SDE interviews. They can s
 Contributions to this repository are welcome! If you have notes, sheets, or questions that you would like to add, please feel free to create a pull request.
 
 ## License
-This repository is licensed under the MIT License. Please see the `LICENSE` file for more information.
+This repository is licensed under the MIT License. Please see the `LICENSE` file for more information.IMP
